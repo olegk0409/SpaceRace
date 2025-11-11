@@ -35,3 +35,12 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android builds
+*.apk
+*.aab
+
+# keystore
+*.jks
+*.keystore
+*.properties
